@@ -33,7 +33,7 @@ class AboutPage extends StatelessWidget {
             ),
             Spacer(),
             Text(
-              'Reza Fahresi',
+              'Developer: Reza Fahresi',
               style: TextStyle(fontSize: 16),
             )
           ],
